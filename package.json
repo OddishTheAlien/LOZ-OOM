@@ -1,0 +1,21 @@
+{
+3    "name": "LOZ-OOM",
+4    "version": "0.0.1",
+5    "description": "",
+"     scripts": {
+          "start": "parcel src/index.html",
+          "build": "parcel build src/index.html",
+          "test": "echo \"Error: no test specified\" && exit 1"
+      },
+11    "repository": {
+12        "type": "git",
+13        "url": "git+https://github.com/OddishTheAlien/LOZ-OOM.git"
+14    },
+15    "author": "",
+16    "license": "ISC",
+17    "bugs": {
+18        "url": "https://github.com/OddishTheAlien/LOZ-OOM/issues"
+19    },
+20    "homepage": "https://github.com/OddishTheAlien/LOZ-OOM#readme"
+21}
+22 
