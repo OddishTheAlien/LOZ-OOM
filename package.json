@@ -4,7 +4,7 @@
      "description": "",
      "scripts": {
           "start": "node index.html",
-          "build": "npm run build index.html",
+          "build": "npm run-script build index.html",
           "test": "echo \"Error: no test specified\" && exit 1"
       },
       "repository": {
